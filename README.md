@@ -1,4 +1,4 @@
-# social-auth npm 
+# social-authenticate npm 
 
 Almost all applications require users to create accounts on their websites to use services. Now a days every websites give support to social media application such as Google, Facebook, Instagram to authenticate user.
 So this library helps you to get unique id of user's social media account. 
@@ -12,7 +12,7 @@ As of now, library support 3 popular social media account to integrate
 
 To start using this library, you must include it in your project and then you can either use the callback function or through the async await :
 ```
-let { social_accounts } = require('social_accounts');
+let { social_accounts } = require('social-authenticate');
 ```
 ### How to use
 
