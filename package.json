@@ -13,7 +13,7 @@
   "author": "Darshil Mehta <mehtadarshil09@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "google-auth-library": "^6.0.0"
   }
 }
